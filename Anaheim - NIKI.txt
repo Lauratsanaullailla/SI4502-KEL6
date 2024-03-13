@@ -3,14 +3,18 @@ I'd give anything to stop time
 Nasi Madura Cumi Hitam Pak Kris
 
 LAURA TSANAULLAILLA
-And drive around Anaheim at sun down 
+And drive around Anaheim at sun down - lala
 
 MAS MUHAMMAD AZRIWINATA
 To teach my mind to put you first
-
+<<<<<<< HEAD
+In a perfect world, i'd kill to love you the loudest
+=======
+>>>>>>> a3c87b91b0dbabd73c054a0e9790820b59d1a288
 
 DAVID TRI WIJAYANTO
 Here you are, a hero
+Oh-oh-oh-oh-oh-oh-oh-oh
 
 NILUH PUTU PAWESTRI AYUNINGTYAS
 You wanna be my new home
@@ -22,5 +26,19 @@ baru nih
 ARYA ABHIRAMA
 I won't ever recognize these roads
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+'Cause I'm just Ken, anywhere else I'd be a ten
+Is it my destiny to live and die a life of blonde fragility?
+I'm just Ken
+Where I see love, she sees a friend
+What will it take for her to see the man behind the tan and fight for me?
+=======
+>>>>>>> d8026cb44fd22f92e2b4bfbf5bdd997945114b01
+>>>>>>> a3c87b91b0dbabd73c054a0e9790820b59d1a288
+=======
 'Cause I am lost, but not in you
 Yes, I am lost, but not in you
+>>>>>>> dc3db1d34b486290b093bbfedfda0f9665a463ac
